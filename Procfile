@@ -1,0 +1,1 @@
+web: gunicorn bareboneproject1.wsgi --log-file -
